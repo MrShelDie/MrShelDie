@@ -26,9 +26,9 @@
 
 ---
 <div align="center">
-	<h4>
+	<h3>
 		You will find a whole range of projects: from developing RISC-V processor microarchitecture to 3d graphics renderers on my github page
-	</h4>
+	</h3>
 </div>
 
 ---
