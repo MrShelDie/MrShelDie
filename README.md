@@ -4,12 +4,12 @@
 </div>
 
 ### :man_technologist: About Me :
-- I study at two educational institutions:books::
-	- school 21 (ecole 42).
-	- Moscow Institute of Electronic Technology.
-- I like complex and low-level things, as well as things where math is needed:metal:
-- In my free time I study technical literature:book:
-- And I also participate in hackathons in a team with my friends:trophy:
+- I am studying at:books::
+	- School 21 (ecole 42).
+	- Moscow Institute of Electronic Technology
+- I am interested in complex and low-level things, as well as things where math is needed:metal:
+- I learn a lot of technical literature in my free time:book:
+- I also take part in differents hackathons with my friends:trophy:
 
 ---
 
@@ -27,7 +27,7 @@
 ---
 <div align="center">
 	<h4>
-		On my github you will find a whole range of projects: from developing RISC-V processor microarchitecture to 3d graphics renderers.
+		You will find a whole range of projects: from developing RISC-V processor microarchitecture to 3d graphics renderers on my github page
 	</h4>
 </div>
 
