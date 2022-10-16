@@ -1,16 +1,33 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="600" height="300"/>
+  <h2>Hi, I am a software engineer from Russia <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"/></h2>
+</div>
 
-<!--
-**MrShelDie/MrShelDie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### :man_technologist: About Me :
+- I study at two educational institutions:books::
+	- school 21 (ecole 42).
+	- Moscow Institute of Electronic Technology.
+- I like complex and low-level things, as well as things where math is needed:metal:
+- In my free time I study technical literature:book:
+- And I also participate in hackathons in a team with my friends:trophy:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :hammer_and_wrench: Languages and Tools :
+
+<div> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg" alt="C" width="40" height="40"/>  
+	<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/cplusplus/cplusplus-original.svg" alt="CPP" width="40" height="40"/> 
+	<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>  
+	<img src="https://cdn.icon-icons.com/icons2/2148/PNG/512/verilog_icon_131894.png" alt="Verilog" width="40" height="40"/> 
+
+</div>
+
+---
+<div align="center">
+	<h5>
+		On my github you will find a whole range of projects: from developing RISC-V processor microarchitecture to 3d graphics renderers.
+	</h5>
+</div>
+
+---
