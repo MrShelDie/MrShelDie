@@ -4,9 +4,9 @@
 </div>
 
 ### :man_technologist: About Me :
-- I am studying at:books::
-	- School 21 (ecole 42).
+- I am studying at:books:
 	- Moscow Institute of Electronic Technology
+	- School 21 (ecole 42).
 - I am interested in complex and low-level things, as well as things where math is needed:metal:
 - I learn a lot of technical literature in my free time:book:
 - I also take part in differents hackathons with my friends:trophy:
@@ -32,3 +32,7 @@
 </div>
 
 ---
+### :fire: My Stats:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MrShelDie&theme=gruvbox)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MrShelDie&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
